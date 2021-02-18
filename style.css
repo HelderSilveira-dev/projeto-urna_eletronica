@@ -1,0 +1,70 @@
+body{
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.urna{
+    background-color: #dbd5c9;
+    padding: 30px;
+    display: flex;
+
+
+}
+
+.tela{
+    width: 500px;
+    height: 320px;
+    background: linear-gradient(to right, #e8e8e8, #c1c1c1);
+    border: 2px solid #666;
+    
+
+}
+
+.teclado{
+    background-color: #403a3a;
+    margin-left: 30px;
+
+}
+
+.teclado--linha{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.teclado--botao{
+    width: 70px;
+    height: 40px;
+    background-color: black;
+    color: #fff;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    cursor: pointer;
+    box-shadow: 3px 3px 0px #666;
+}
+
+.botao--branco{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+}
+
+.botao--corrige{
+    background-color: #f09046;
+    color: #000;
+    font-size: 15px;
+}
+
+.botao--confirma{
+    background-color: #48c079;
+    color: black;
+    font-size: 15px;
+    width: 90px;
+    height: 50px;
+
+}
