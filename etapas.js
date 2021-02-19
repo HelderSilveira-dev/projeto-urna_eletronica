@@ -21,7 +21,7 @@ let etapas=[
             ]  
         }
     ]
-}
+},
 {
     titulo:"PREFEITO",
     numero: 2,
@@ -32,7 +32,7 @@ let etapas=[
             partido:"IPTU",
             vice:"Zé Suvaqueiro",
             foto:[
-                {url:'p99.jpg', legenda:'Prefeito'}
+                {url:'p99.jpg', legenda:'Prefeito'},
                 {url:'v99.jpg', legenda:'Vice-Prefeito', smal: true}
             ]
 
@@ -44,7 +44,7 @@ let etapas=[
             partido:"LATA",
             vice:"Salmão",
             foto:[
-                {url:'p99.jpg', legenda:'Prefeito'}
+                {url:'p99.jpg', legenda:'Prefeito'},
                 {url:'v99.jpg', legenda:'Vice-Prefeito', smal: true}
             ]
         }
