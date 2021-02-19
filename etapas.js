@@ -22,6 +22,34 @@ let etapas=[
         }
     ]
 }
+{
+    titulo:"PREFEITO",
+    numero: 2,
+    candidatos:[
+        {
+            numero:99,
+            nome:"Chico Suvaco",
+            partido:"IPTU",
+            vice:"Zé Suvaqueiro",
+            foto:[
+                {url:'p99.jpg', legenda:'Prefeito'}
+                {url:'v99.jpg', legenda:'Vice-Prefeito', smal: true}
+            ]
+
+
+        },
+        {
+            numero:88,
+            nome:"Sardinha",
+            partido:"LATA",
+            vice:"Salmão",
+            foto:[
+                {url:'p99.jpg', legenda:'Prefeito'}
+                {url:'v99.jpg', legenda:'Vice-Prefeito', smal: true}
+            ]
+        }
+    ]
+}
 ]
     
     
